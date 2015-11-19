@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Project Zero-UAND</string>
+    <string name="action_settings">Settings</string>
+    <string name="spotify">Spotify Streamer</string>
+    <string name="scores">Scores App</string>
+    <string name="library">Library App</string>
+    <string name="big">Build it Bigger</string>
+    <string name="xyz">XYZ Reader</string>
+    <string name="myap">Capstone My own App</string>
+    <string name="launch">This button will launch </string>
+</resources>
